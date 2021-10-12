@@ -2,8 +2,11 @@ using System;
 
 public class Soal1{
     public static void Main(string[] args){
-        String abc = "ABCDE";
-        int n = 5;
+        String abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        int n;
+        Console.WriteLine($"Input N: ");
+        n = Convert.ToInt32(Console.ReadLine());
+        
 
         for(int i=1; i<=n; i++){
             for(int j=0; j<n-i; j++){      
