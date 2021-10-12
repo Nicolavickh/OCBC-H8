@@ -1,0 +1,16 @@
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\sesi 1.exe
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\sesi 1.deps.json
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\sesi 1.runtimeconfig.json
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\sesi 1.runtimeconfig.dev.json
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\sesi 1.dll
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\ref\sesi 1.dll
+E:\Hacktiv8\sesi 1\bin\Debug\net5.0\sesi 1.pdb
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.csproj.AssemblyReference.cache
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.AssemblyInfoInputs.cache
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.AssemblyInfo.cs
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.dll
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\ref\sesi 1.dll
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.pdb
+E:\Hacktiv8\sesi 1\obj\Debug\net5.0\sesi 1.genruntimeconfig.cache
