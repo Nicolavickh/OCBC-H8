@@ -1,0 +1,16 @@
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.csproj.AssemblyReference.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfoInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\Laptop.exe
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\Laptop.deps.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\Laptop.runtimeconfig.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\Laptop.runtimeconfig.dev.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\Laptop.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\ref\Laptop.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\bin\Debug\net5.0\Laptop.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\ref\Laptop.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Laptop\obj\Debug\net5.0\Laptop.genruntimeconfig.cache

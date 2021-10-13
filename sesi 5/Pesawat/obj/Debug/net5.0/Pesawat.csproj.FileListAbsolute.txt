@@ -1,0 +1,16 @@
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\Pesawat.exe
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\Pesawat.deps.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\Pesawat.runtimeconfig.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\Pesawat.runtimeconfig.dev.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\Pesawat.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\ref\Pesawat.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\bin\Debug\net5.0\Pesawat.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.csproj.AssemblyReference.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.AssemblyInfoInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.AssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\ref\Pesawat.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat\obj\Debug\net5.0\Pesawat.genruntimeconfig.cache

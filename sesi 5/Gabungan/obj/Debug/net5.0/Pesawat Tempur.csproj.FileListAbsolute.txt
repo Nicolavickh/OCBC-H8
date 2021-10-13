@@ -1,0 +1,21 @@
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.csproj.AssemblyReference.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.AssemblyInfoInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.AssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\Pesawat Tempur.exe
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\Pesawat Tempur.deps.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\Pesawat Tempur.runtimeconfig.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\Pesawat Tempur.runtimeconfig.dev.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\Pesawat Tempur.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\ref\Pesawat Tempur.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\bin\Debug\net5.0\Pesawat Tempur.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\ref\Pesawat Tempur.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Pesawat Tempur\obj\Debug\net5.0\Pesawat Tempur.genruntimeconfig.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Pesawat Tempur.csproj.AssemblyReference.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Pesawat Tempur.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Pesawat Tempur.AssemblyInfoInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Pesawat Tempur.AssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Pesawat Tempur.csproj.CoreCompileInputs.cache

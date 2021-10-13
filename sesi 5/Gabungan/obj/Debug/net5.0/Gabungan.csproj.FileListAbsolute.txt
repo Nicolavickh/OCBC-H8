@@ -1,0 +1,16 @@
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.csproj.AssemblyReference.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.AssemblyInfoInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.AssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\Gabungan.exe
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\Gabungan.deps.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\Gabungan.runtimeconfig.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\Gabungan.runtimeconfig.dev.json
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\Gabungan.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\ref\Gabungan.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\bin\Debug\net5.0\Gabungan.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\ref\Gabungan.dll
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.pdb
+E:\Hacktiv8\OCBC-H8\sesi 5\Gabungan\obj\Debug\net5.0\Gabungan.genruntimeconfig.cache
