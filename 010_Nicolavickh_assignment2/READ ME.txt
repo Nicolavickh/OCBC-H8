@@ -1,0 +1,6 @@
+Kalau dibutuhkan saya mengumpulkan juga query sql yang saya ketik sendiri.
+
+Query untuk create database dan tables -> create_assignment2.sql
+Query untuk Insert data -> insert_assignment2.sql
+
+Terimakasih
