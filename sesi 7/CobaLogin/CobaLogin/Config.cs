@@ -70,7 +70,6 @@ namespace CobaLogin
 
                 DataSet tempds = new DataSet();
                 da2.Fill(tempds, ConnectionType);
-                da2.Fill(tempds);
             }
             catch(Exception e) {
                 MessageBox.Show(e.Message);
