@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Hacktiv8\\OCBC-H8\\New folder\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj": {}
+    "E:\\Hacktiv8\\OCBC-H8\\sesi 9\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj": {}
   },
   "projects": {
-    "E:\\Hacktiv8\\OCBC-H8\\New folder\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj": {
+    "E:\\Hacktiv8\\OCBC-H8\\sesi 9\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Hacktiv8\\OCBC-H8\\New folder\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj",
+        "projectUniqueName": "E:\\Hacktiv8\\OCBC-H8\\sesi 9\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj",
         "projectName": "Kantor_WebApi",
-        "projectPath": "E:\\Hacktiv8\\OCBC-H8\\New folder\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj",
+        "projectPath": "E:\\Hacktiv8\\OCBC-H8\\sesi 9\\Kantor_WebApi\\Kantor_WebApi\\Kantor_WebApi.csproj",
         "packagesPath": "C:\\Users\\games\\.nuget\\packages\\",
-        "outputPath": "E:\\Hacktiv8\\OCBC-H8\\New folder\\Kantor_WebApi\\Kantor_WebApi\\obj\\",
+        "outputPath": "E:\\Hacktiv8\\OCBC-H8\\sesi 9\\Kantor_WebApi\\Kantor_WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
