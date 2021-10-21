@@ -1,0 +1,11 @@
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\BenerinDocker.exe
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\appsettings.Development.json
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\appsettings.json
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\BenerinDocker.dll
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\BenerinDocker.deps.json
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\BenerinDocker.runtimeconfig.json
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\BenerinDocker.pdb
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\Microsoft.OpenApi.dll
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hacktiv8\OCBC-H8\testdocker\BenerinDocker\BenerinDocker\bin\release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
