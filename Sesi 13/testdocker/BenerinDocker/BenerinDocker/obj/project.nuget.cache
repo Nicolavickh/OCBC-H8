@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QHxAa7xj5a00KTN6ez/IkmvOOWPdXWIibeTpUNllYehgPYxIxPaJtF9hmGNEzFflq2ib/U8YtrCI3aHVkXMcMQ==",
+  "dgSpecHash": "bAv5WfPexDNAyvBmBJzobnq41O6dSaQKl64CZVgp8nYy1LNQ3ix8oqk7x+5+X/c3+Tg54tyzqNCgd3W/eUZuWQ==",
   "success": true,
-  "projectFilePath": "E:\\Hacktiv8\\OCBC-H8\\testdocker\\BenerinDocker\\BenerinDocker\\BenerinDocker.csproj",
+  "projectFilePath": "E:\\Hacktiv8\\OCBC-H8\\Sesi 13\\testdocker\\BenerinDocker\\BenerinDocker\\BenerinDocker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\games\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\games\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

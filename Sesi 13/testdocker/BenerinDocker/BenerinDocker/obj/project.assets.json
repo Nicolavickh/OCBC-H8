@@ -286,11 +286,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Hacktiv8\\OCBC-H8\\testdocker\\BenerinDocker\\BenerinDocker\\BenerinDocker.csproj",
+      "projectUniqueName": "E:\\Hacktiv8\\OCBC-H8\\Sesi 13\\testdocker\\BenerinDocker\\BenerinDocker\\BenerinDocker.csproj",
       "projectName": "BenerinDocker",
-      "projectPath": "E:\\Hacktiv8\\OCBC-H8\\testdocker\\BenerinDocker\\BenerinDocker\\BenerinDocker.csproj",
+      "projectPath": "E:\\Hacktiv8\\OCBC-H8\\Sesi 13\\testdocker\\BenerinDocker\\BenerinDocker\\BenerinDocker.csproj",
       "packagesPath": "C:\\Users\\games\\.nuget\\packages\\",
-      "outputPath": "E:\\Hacktiv8\\OCBC-H8\\testdocker\\BenerinDocker\\BenerinDocker\\obj\\",
+      "outputPath": "E:\\Hacktiv8\\OCBC-H8\\Sesi 13\\testdocker\\BenerinDocker\\BenerinDocker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
