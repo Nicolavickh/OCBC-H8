@@ -3,3 +3,6 @@ Select By Id -> https://localhost:44329/api/PaymentDetails/id (GET)
 Insert -> https://localhost:44329/api/PaymentDetails (POST dengan JSON dalam body)
 Update -> https://localhost:44329/api/PaymentDetails/id (PUT dengan JSON dalam body)
 Delete -> https://localhost:44329/api/PaymentDetails/id (Delete)
+
+Link Github 
+https://github.com/Nicolavickh/OCBC-H8/tree/main/010_Nicolavickh_FinalProject
