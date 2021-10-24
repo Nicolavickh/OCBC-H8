@@ -1,8 +1,20 @@
+Untuk menjalankan project bisa dengan cara membuka Bank_PaymentDetails.sln 
+lalu menclick tombol run.
+
+Test Api menggunkan swagger:
 Select All -> https://localhost:44329/api/PaymentDetails (GET)
 Select By Id -> https://localhost:44329/api/PaymentDetails/id (GET)
 Insert -> https://localhost:44329/api/PaymentDetails (POST dengan JSON dalam body)
 Update -> https://localhost:44329/api/PaymentDetails/id (PUT dengan JSON dalam body)
 Delete -> https://localhost:44329/api/PaymentDetails/id (Delete)
+
+Test Api menggunakan Swagger:
+https://localhost:44329/swagger/index.html
+Select All -> [GET] /api/PaymentDetails
+Select By Id -> [GET] /api/PaymentDetails/{id}
+Insert -> [POST] /api/PaymentDetails (masukan data pada request body)
+Update -> [PUT] /api/PaymentDetails/{id} (masukan data baru pada request body)
+Delete -> [DELETE] /api/PaymentDetails/{id}
 
 Link Github 
 https://github.com/Nicolavickh/OCBC-H8/tree/main/010_Nicolavickh_FinalProject

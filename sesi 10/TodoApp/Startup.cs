@@ -37,7 +37,7 @@ namespace TodoApp
             services.Configure<JwtConfig>(Configuration.GetSection("JwtConfig"));
             services.AddDbContext<ApiDbContext>(options => 
                 options.UseSqlite(
-                    Configuration.GetConnectionString("DefaultCOnnection")
+                    Configuration.GetConnectionString("DefaultConnection")
                 )
             );
             services.AddControllers();

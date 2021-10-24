@@ -1,0 +1,144 @@
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\appsettings.Development.json
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\appsettings.json
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.exe
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.deps.json
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.runtimeconfig.json
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.runtimeconfig.dev.json
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\ref\Bank_PaymentDetails.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.pdb
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Humanizer.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.csproj.AssemblyReference.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.AssemblyInfoInputs.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.AssemblyInfo.cs
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.MvcApplicationPartsAssemblyInfo.cs
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.MvcApplicationPartsAssemblyInfo.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\staticwebassets\Bank_PaymentDetails.StaticWebAssets.Manifest.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\staticwebassets\Bank_PaymentDetails.StaticWebAssets.xml
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\scopedcss\bundle\Bank_PaymentDetails.styles.css
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.RazorTargetAssemblyInfo.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\ref\Bank_PaymentDetails.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.pdb
+E:\Hacktiv8\test\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.genruntimeconfig.cache
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.StaticWebAssets.xml
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hacktiv8\test\Bank_PaymentDetails\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\appsettings.Development.json
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\appsettings.json
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.StaticWebAssets.xml
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.exe
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.deps.json
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.runtimeconfig.json
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.runtimeconfig.dev.json
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\ref\Bank_PaymentDetails.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Bank_PaymentDetails.pdb
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Humanizer.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.csproj.AssemblyReference.cache
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.AssemblyInfoInputs.cache
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.AssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.csproj.CoreCompileInputs.cache
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.MvcApplicationPartsAssemblyInfo.cs
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.MvcApplicationPartsAssemblyInfo.cache
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\staticwebassets\Bank_PaymentDetails.StaticWebAssets.Manifest.cache
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\staticwebassets\Bank_PaymentDetails.StaticWebAssets.xml
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\scopedcss\bundle\Bank_PaymentDetails.styles.css
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.RazorTargetAssemblyInfo.cache
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\ref\Bank_PaymentDetails.dll
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.pdb
+E:\Hacktiv8\OCBC-H8\010_Nicolavickh_FinalProject\Bank_PaymentDetails with SQLite and JWT\Bank_PaymentDetails\obj\Debug\net5.0\Bank_PaymentDetails.genruntimeconfig.cache
