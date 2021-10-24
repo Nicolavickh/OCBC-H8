@@ -1,7 +1,10 @@
-Untuk menjalankan project bisa dengan cara membuka Bank_PaymentDetails.sln 
-lalu menclick tombol run.
+==========Project pakai MySQL=========
+Untuk menjalankan project bisa dengan cara: 
+1. Buka Bank_PaymentDetails with MySQL -> Bank_PaymentDetails.sln 
+2. Click tombol run.
+3. Link : https://localhost:5001/swagger/index.html
 
-Test Api menggunkan swagger:
+Test Api menggunakan Postman:
 Select All -> https://localhost:44329/api/PaymentDetails (GET)
 Select By Id -> https://localhost:44329/api/PaymentDetails/id (GET)
 Insert -> https://localhost:44329/api/PaymentDetails (POST dengan JSON dalam body)
@@ -15,6 +18,27 @@ Select By Id -> [GET] /api/PaymentDetails/{id}
 Insert -> [POST] /api/PaymentDetails (masukan data pada request body)
 Update -> [PUT] /api/PaymentDetails/{id} (masukan data baru pada request body)
 Delete -> [DELETE] /api/PaymentDetails/{id}
+========================================
+
+============Project pakai SQLite dan JWT=============
+Untuk menjalankan project bisa dengan cara:
+1. Buka Bank_PaymentDetails with SQLite and JWT]
+2. Click kanan pada folder Bank_PaymentDetails -> open with visual studio code
+3. Buka terminal
+4. Jalankan perintah dotnet run
+5. Link : https://localhost:5001/swagger/index.html
+
+
+Test Api menggunakan Swagger:
+Register -> [POST] /api/AuthManagement/Register (masukan data pada request body)
+Login-> [POST] /api/AuthManagement/Login (masukan data pada request body)
+Refresh Token-> [POST] /api/AuthManagement/RefreshToken (masukan data pada request body)
+Select All -> [GET] /api/PaymentDetails
+Select By Id -> [GET] /api/PaymentDetails/{id}
+Insert -> [POST] /api/PaymentDetails (masukan data pada request body)
+Update -> [PUT] /api/PaymentDetails/{id} (masukan data baru pada request body)
+Delete -> [DELETE] /api/PaymentDetails/{id}
+======================================================
 
 Link Github 
 https://github.com/Nicolavickh/OCBC-H8/tree/main/010_Nicolavickh_FinalProject
