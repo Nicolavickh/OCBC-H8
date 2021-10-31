@@ -1,0 +1,50 @@
+<br>
+<div class="container">
+    <div class="card" style="width: 25rem;">
+        <div class="card-header">
+            <h3>{{ countryDetail.name }}</h3>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col">
+                    Capital:
+                </div>
+                <div class="col">
+                    {{ countryDetail.capital }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    Area:
+                </div>
+                <div class="col">
+                    {{ countryDetail.area | number }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    Population:
+                </div>
+                <div class="col">
+                    {{ countryDetail.population | number }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    GDP:
+                </div>
+                <div class="col">
+                    $ {{ countryDetail.gdp | number }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    Currency:
+                </div>
+                <div class="col">
+                    {{ countryDetail.currency }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

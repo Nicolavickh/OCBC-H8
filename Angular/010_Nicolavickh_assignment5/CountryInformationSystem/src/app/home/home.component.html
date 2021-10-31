@@ -1,0 +1,38 @@
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col d-flex justify-content-center">
+            <h2>Three Most Populated Countries</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div (click)="sendToParent(country.id)" *ngFor="let country of mostPopulatedCountries;" class="col-4">
+            <div class="card">
+                <div class="card-header">
+                    {{ country.name }}
+                </div>
+                <div class="card-body">
+                    {{ country.population | number}} people
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col d-flex justify-content-center">
+            <h2>Three Largest Countries (Area)</h2>
+        </div>
+    <div class="row">
+        <div (click)="sendToParent(country.id)" *ngFor="let country of largestCountries;" class="col-4">
+            <div class="card">
+                <div class="card-header">
+                    {{ country.name }}
+                </div>
+                <div class="card-body">
+                    {{ country.area | number}} km<sup>2</sup>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>

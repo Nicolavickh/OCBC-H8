@@ -1,0 +1,18 @@
+<div class="container justify-content-center p-5">
+    <div class="col d-flex justify-content-center">
+        <h1>Fun Facts About Countries</h1>
+    </div>
+    <div class="col d-flex justify-content-center">
+        <button pButton label="Contact" (click)="menu = 1">Go Back to Home Page</button>
+        <button pButton label="Results" (click)="menu = 2">List of All Countries</button>
+    </div>
+    <div *ngIf="menu == 1" class="col d-flex justify-content-center">
+        <app-home (emitter)="openCountryDetail($event)" [countries]="countries" ></app-home>
+    </div>
+    <div *ngIf="menu == 2" class="col d-flex justify-content-center">
+        <app-all-countries (emitter)="openCountryDetail($event)" [countries]="countries" ></app-all-countries>
+    </div>
+    <div *ngIf="menu == 3" class="col d-flex justify-content-center">
+        <app-country-detail [countryDetail]="countryDetail" ></app-country-detail>
+    </div>
+</div>
