@@ -1,6 +1,31 @@
-<form action="">
-    <div class="input-griup mb-3">
-        <input type="text" name="inputTodo" placeholder="Enter todo..." class="form-control" [(ngModel)]="inputTodo">
-        <input type="submit" value="Add Todo" (click)="addTodo()" class="btn btn-primary">
+<form (ngSubmit)="onSubmit(todoForm)" #todoForm="ngForm" action="">
+    <div class="form-group">
+        <label for="name">Task Name</label>
+        <input type="text" name="taskName" id="taskName" required class="form-control" ngModel>
     </div>
+    <div class="form-group">
+        <label for="category">Category</label>
+        <select name="category" id="category" class="form-control" ngModel>
+            <option value=""><-- Select Category --></option>
+            <option *ngFor="let category of categories"  [value]="category">{{ category }}</option>
+        </select>
+    </div>
+    <br>
+    <button type="submit" class="btn btn-success">Submit</button>
 </form>
+<br>
+<ol *ngFor="let task of tasks let i = index;" class="list-group">
+    <li class="list-group-item d-flex justify-content-between align-items start">
+        <div class="ms-3 me-auto">
+            <div class="content {{( task.isCompleted ? 'done' : '' )}}">
+                {{ i+1 }} . {{ task.task }}
+            </div>
+        </div>
+        <button class="btn btn-warning btn-sm completed" (click)="toggleDone(i)">
+            <i class="bi bi-check-circle"></i>
+        </button>
+        <button class="btn btn-danger btn-sm" (click)="deleteTask(i)">
+            <i class="bi bi-trash-fill"></i>
+        </button>
+    </li>
+</ol>

@@ -1,5 +1,6 @@
-import { Component, EventEmitter, OnInit, Output } from '@angular/core';
-import {Todo} from '../../Models/Todo';
+import { Component, OnInit } from '@angular/core';
+import { NgForm } from '@angular/forms';
+import { Task } from 'src/app/Models/Task';
 
 @Component({
   selector: 'app-add-todo-form',
@@ -7,17 +8,32 @@ import {Todo} from '../../Models/Todo';
   styleUrls: ['./add-todo-form.component.css']
 })
 export class AddTodoFormComponent implements OnInit {
-  @Output() newTodoEvent = new EventEmitter<Todo>();
-  inputTodo: string= "";
+  tasks: Task[] = [];
+  categories = [
+    'School',
+    'Work',
+    'Hobby',
+    'Daily'
+  ];
 
-  addTodo(){
-    const todo: Todo = {
-      content: this.inputTodo,
-      completed: false
-    };
+  onSubmit(form: NgForm){
+    const {taskName, category} = form.value;
+    this.tasks.push(new Task(taskName, false, category));
+    form.reset();
+  }
 
-    this.newTodoEvent.emit(todo);
-    this.inputTodo = "";
+  toggleDone(id:number){
+    this.tasks.map((v,i) =>{
+      if(i==id){
+        v.isCompleted = !v.isCompleted;
+      }
+      console.log(v);
+      return v;
+    });
+  }
+
+  deleteTask(id:number){
+    this.tasks = this.tasks.filter((v,i) => i !== id);
   }
 
   constructor() { }

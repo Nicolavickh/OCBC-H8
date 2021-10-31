@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-import { NgForm } from '@angular/forms';
-import { Task } from './Models/Task';
 
 @Component({
   selector: 'app-root',
@@ -8,5 +6,5 @@ import { Task } from './Models/Task';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title: any;
+  title = 'test-routing';
 }
