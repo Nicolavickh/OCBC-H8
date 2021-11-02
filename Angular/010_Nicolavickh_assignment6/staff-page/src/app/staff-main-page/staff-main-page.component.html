@@ -1,0 +1,188 @@
+<br>
+<ng-template #content let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Add New Staff</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+        <form [formGroup]="form.inputData" (ngSubmit)="addStaff()" action="">
+            <div class="row">
+                <div class="form-group mb3 col-md-2">
+                    <label for="title">Title</label>
+                    <select [class.invalid]="title && title.touched && title.invalid" class="form-select" formControlName="title" id="title">
+                        <option value="Mr.">Mr.</option>
+                        <option value="Miss">Miss</option>
+                        <option value="Mrs.">Mrs.</option>
+                        <option value="Ms.">Ms.</option>
+                    </select>
+                    <span style="color: red" *ngIf="title && title.touched && title.invalid">
+                        Please select your title.
+                    </span>
+                </div>
+                <div class="form-group col-md-5">
+                    <label for="firstName">First Name</label>
+                    <input value="{{ currentStaff.firstName }}" [class.invalid]="firstName && firstName.touched && firstName.invalid" type="text" formControlName="firstName" id="firstName" class="form-control form-control">
+                    <span style="color: red" *ngIf="firstName && firstName.touched && firstName.invalid">
+                        Please input your First Name.
+                    </span>
+                </div>
+                <div class="form-group col-md-5">
+                    <label for="lastName">Last Name</label>
+                    <input [class.invalid]="lastName && lastName.touched && lastName.invalid" type="text" formControlName="lastName" id="lastName" class="form-control form-control">
+                    <span style="color: red" *ngIf="lastName && lastName.touched && lastName.invalid">
+                        Please input your Last Name.
+                    </span>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label for="email">Email</label>
+                    <input [class.invalid]="email && email.touched && email.invalid" type="email" formControlName="email" id="email" class="form-control form-control">
+                    <span style="color: red" *ngIf="email && email.touched && email.invalid">
+                        You must input a valid email.
+                    </span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="role">Role</label>
+                    <select [class.invalid]="role && role.touched && role.invalid" class="form-select" formControlName="role" id="role">
+                        <option value="Admin">Admin</option>
+                        <option value="User">User</option>
+                    </select>
+                    <span style="color: red" *ngIf="role && role.touched && role.invalid">
+                        Please select your role.
+                    </span>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label for="password">Password</label>
+                    <input [class.invalid]="password && password.touched && password.invalid" type="password" formControlName="password" id="password" class="form-control form-control">
+                    <span style="color: red" *ngIf="password && password.touched && password.invalid">
+                        Please input password.
+                    </span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="confirmPassword">Confirm Password</label>
+                    <input [class.invalid]="confirmPassword && confirmPassword.touched && confirmPassword.invalid" type="password" formControlName="confirmPassword" id="confirmPassword" class="form-control form-control">
+                    <span style="color: red" *ngIf="confirmPassword && confirmPassword.touched && confirmPassword.invalid">
+                        Confirm password must be the same as password.
+                    </span>
+                </div>
+            </div>
+            <br>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" (click)="modal.close('Save click')" [disabled]="form.inputData.invalid">Add User</button>
+            </div>
+        </form>
+    </div>
+</ng-template>
+
+<button class="btn btn-lg btn-outline-primary" (click)="open(content)">Add New Staff</button>
+
+
+<table class="table">
+<thead>
+    <tr>
+    <th scope="col">#</th>
+    <th scope="col">Full Name</th>
+    <th scope="col">Email</th>
+    <th scope="col">Role</th>
+    <th>Action</th>
+    </tr>
+</thead>
+<tbody>
+    <tr class="clickable-row" *ngFor="let staff of staffs; index as i">
+        <td (click)="getStaff(staff,update)">{{ i + 1 }}</td>
+        <td (click)="getStaff(staff,update)">{{ staff.title}} {{ staff.firstName }} {{ staff.lastName }}</td>
+        <td (click)="getStaff(staff,update)">{{ staff.email }}</td>
+        <td (click)="getStaff(staff,update)">{{ staff.role }}</td>
+        <td><input (click)="deleteStaff(staff.id)" type="button" value="Delete" class="btn btn-danger"></td>
+    </tr>
+</tbody>
+</table>
+
+<ng-template #update let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Update Staff</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+        <form [formGroup]="form.updateData" (ngSubmit)="updateStaff()" action="">
+            <div class="row">
+                <div class="form-group mb3 col-md-2">
+                    <label for="title">Title</label>
+                    <select [class.invalid]="title && title.touched && title.invalid" class="form-select" formControlName="title" id="title">
+                        <option value="Mr.">Mr.</option>
+                        <option value="Miss">Miss</option>
+                        <option value="Mrs.">Mrs.</option>
+                        <option value="Ms.">Ms.</option>
+                    </select>
+                    <span style="color: red" *ngIf="title && title.touched && title.invalid">
+                        Please select your title.
+                    </span>
+                </div>
+                <div class="form-group col-md-5">
+                    <label for="firstName">First Name</label>
+                    <input [class.invalid]="firstName && firstName.touched && firstName.invalid" type="text" formControlName="firstName" id="firstName" class="form-control form-control">
+                    <span style="color: red" *ngIf="firstName && firstName.touched && firstName.invalid">
+                        Please input your First Name.
+                    </span>
+                </div>
+                <div class="form-group col-md-5">
+                    <label for="lastName">Last Name</label>
+                    <input [class.invalid]="lastName && lastName.touched && lastName.invalid" type="text" formControlName="lastName" id="lastName" class="form-control form-control">
+                    <span style="color: red" *ngIf="lastName && lastName.touched && lastName.invalid">
+                        Please input your Last Name.
+                    </span>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label for="email">Email</label>
+                    <input [class.invalid]="email && email.touched && email.invalid" type="email" formControlName="email" id="email" class="form-control form-control">
+                    <span style="color: red" *ngIf="email && email.touched && email.invalid">
+                        You must input a valid email.
+                    </span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="role">Role</label>
+                    <select [class.invalid]="role && role.touched && role.invalid" class="form-select" formControlName="role" id="role">
+                        <option value="Admin">Admin</option>
+                        <option value="User">User</option>
+                    </select>
+                    <span style="color: red" *ngIf="role && role.touched && role.invalid">
+                        Please select your role.
+                    </span>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label for="password">Password</label>
+                    <input [class.invalid]="password && password.touched && password.invalid" type="password" formControlName="password" id="password" class="form-control form-control">
+                    <span style="color: red" *ngIf="password && password.touched && password.invalid">
+                        Please input password.
+                    </span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="confirmPassword">Confirm Password</label>
+                    <input [class.invalid]="confirmPassword && confirmPassword.touched && confirmPassword.invalid" type="password" formControlName="confirmPassword" id="confirmPassword" class="form-control form-control">
+                    <span style="color: red" *ngIf="confirmPassword && confirmPassword.touched && confirmPassword.invalid">
+                        Confirm password must be the same as password.
+                    </span>
+                </div>
+            </div>
+            <br>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" (click)="modal.close('Save click')" [disabled]="form.updateData.invalid">Update Staff</button>
+            </div>
+        </form>
+    </div>
+</ng-template>
