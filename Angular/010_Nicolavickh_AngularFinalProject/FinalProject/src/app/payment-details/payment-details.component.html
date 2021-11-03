@@ -1,0 +1,14 @@
+<div class="jumbotron">
+    <h1 class="display-4 text-center">Payment Details</h1>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col col-md-6">
+            <payment-details-form (emitter)="getDetails($event)" [selectedDetail]="selectedDetail" ></payment-details-form>
+        </div>
+        <div class="col col-md-6">
+            <payment-details-table (emitter)="getDetail($event)" [details]="details" ></payment-details-table>
+        </div>
+    </div>
+</div>

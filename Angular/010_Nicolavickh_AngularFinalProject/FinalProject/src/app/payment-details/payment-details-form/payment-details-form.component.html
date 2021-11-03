@@ -1,0 +1,48 @@
+<form [formGroup]="form.inputData" (ngSubmit)="manageDetail()">
+    <input type="hidden" formControlName="paymentDetailId">
+    <div class="form-group">
+        <label for="cardOwnerName">Card Owner Name</label>
+        <input [class.invalid]="cardOwnerName && cardOwnerName.touched && cardOwnerName.invalid" type="text" class="form-control form-control-lg" placeholder="Card Owner Full Name" formControlName="cardOwnerName" id="cardOwnerName">
+        <span style="color: red" *ngIf="cardOwnerName && cardOwnerName.touched && cardOwnerName.invalid">
+            Please input Card Owner Name.
+        </span>
+    </div>
+    <div class="form-group">
+        <label for="cardNumber">Card Number</label>
+        <input [class.invalid]="cardNumber && cardNumber.touched && cardNumber.invalid" type="text" class="form-control form-control-lg" placeholder="Card Number" formControlName="cardNumber" id="cardNumber">
+        <span style="color: red" *ngIf="cardNumber && cardNumber.touched && cardNumber.invalid">
+            Please input Card Number properly.
+        </span>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="expirationDate">Expiration Date</label>
+                <input [class.invalid]="expirationDate && expirationDate.touched && expirationDate.invalid" type="date" class="form-control form-control-lg" formControlName="expirationDate" id="expirationDate" >
+                <span style="color: red" *ngIf="expirationDate && expirationDate.touched && expirationDate.invalid">
+                    Please input Expiration Date.
+                </span>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="securityCode">Security Code</label>
+                <input [class.invalid]="securityCode && securityCode.touched && securityCode.invalid" type="password" class="form-control form-control-lg" placeholder="Security Code" formControlName="securityCode" id="securityCode" >
+                <span style="color: red" *ngIf="securityCode && securityCode.touched && securityCode.invalid">
+                    Please input Security Code.
+                </span>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        <div class="row">
+            <div class="col d-grid gap-2">
+                <button [disabled]="form.inputData.invalid" type="submit" class="btn btn-success btn-lg">Submit</button>
+            </div>
+            <div class="col d-grid gap-2">
+                <button (click)="resetForm()" class="btn btn-info btn-lg" type="reset">Reset Form</button>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,43 @@
+<table class="row-border hover" datatable [dtOptions]="dtOptions">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Card Owner</th>
+      <th scope="col">Card Number</th>
+      <th scope="col">Expiration Date</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr *ngFor="let detail of details; index as i">
+          <td (click)="getDetail(detail)" >{{ i + 1 }}</td>
+          <td (click)="getDetail(detail)">{{ detail.cardOwnerName }}</td>
+          <td (click)="getDetail(detail)">{{ detail.cardNumber }}</td>
+          <td (click)="getDetail(detail)">{{ detail.expirationDate | date: 'MM/YY' }}</td>
+          <td>
+            <button (click)="openConfirm(content, detail)" class="btn btn-danger btn">
+              <i class="bi bi-trash"></i>
+            </button>
+          </td>
+      </tr>
+  </tbody>
+</table>
+
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Delete Payment Details</h4>
+    <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p><strong>Are you sure you want to delete <span class="text-primary">{{ selectedDetail.cardOwnerName }}'s</span> payment detail?</strong></p>
+    <p>All information associated to this user profile will be permanently deleted.</p>
+    <span class="text-danger">This operation can not be undone.</span>
+    
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-secondary" (click)="modal.dismiss('cancel click')">Cancel</button>
+    <button type="button" ngbAutofocus class="btn btn-danger" (click)="modal.close('Ok click')">Ok</button>
+  </div>
+</ng-template>
